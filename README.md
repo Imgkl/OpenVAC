@@ -89,25 +89,6 @@ Full-screen canvas layout inspired by design tools. The ASCII animation fills th
 
 ---
 
-## Gallery
-
-<!-- Add your best conversions here -->
-
-<!--
-<table>
-  <tr>
-    <td><video src="" autoplay loop muted playsinline width="400"></video></td>
-    <td><video src="" autoplay loop muted playsinline width="400"></video></td>
-  </tr>
-  <tr>
-    <td><em>Description</em></td>
-    <td><em>Description</em></td>
-  </tr>
-</table>
--->
-
----
-
 ## Stack
 
 Next.js · React · Tailwind CSS · Bash · ffmpeg · TypeScript
